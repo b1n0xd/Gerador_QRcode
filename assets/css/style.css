@@ -1,0 +1,47 @@
+body{
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #e6dada; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #e6dada, #274046); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #e6dada, #274046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1{
+    text-align: center;
+    color: rgba(#274046);
+    
+}
+h6{
+    text-align: center;
+    color: rgba(#274046);
+}
+.caixinha{
+    align-items: center;
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    border-radius: 3px;
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
+button{
+    border-radius: 5px;
+    align-items: center;
+    margin-left: 35%;
+    border-style: solid;
+    border-image-outset: 50px;
+    
+    
+}
+.qrcodefeito{
+    border-radius: 5px;
+    align-items: center;
+    margin-left: 42%;
+    margin-top: 2%;
+}
